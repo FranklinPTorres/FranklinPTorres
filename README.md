@@ -27,6 +27,7 @@ This are my skills so far!
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="codewars" />
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FranklinPTorres" alt="FranklinPTorres" /> </p> 
+
 ## Contact me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pakize-bozkurt-36927322b/)
