@@ -28,5 +28,5 @@ This are my skills so far!
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FranklinPTorres" alt="FranklinPTorres" /> </p> 
 ## Contact me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklin-perez-971a92169/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pakize-bozkurt-36927322b/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:franklin.design93@gmail.com)
